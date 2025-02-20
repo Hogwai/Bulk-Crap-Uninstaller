@@ -117,19 +117,94 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="filteringTextBox.Text" xml:space="preserve">
-    <value>Suche...</value>
+  <data name="labelProgress.Text" xml:space="preserve">
+    <value>1 / 6</value>
   </data>
-  <data name="filteringTextBox.AccessibleName" xml:space="preserve">
-    <value>Suchfeld</value>
+  <data name="buttonExit.Text" xml:space="preserve">
+    <value>Mégse</value>
   </data>
-  <data name="filteringTextBox.AccessibleDescription" xml:space="preserve">
-    <value>Suchfeld</value>
+  <data name="buttonPrev.Text" xml:space="preserve">
+    <value>Vissza</value>
   </data>
-  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>fr</value>
-  </metadata>
+  <data name="buttonNext.Text" xml:space="preserve">
+    <value>Tovább</value>
+  </data>
+  <data name="tabPage1.Text" xml:space="preserve">
+    <value>Kapcsolódó</value>
+  </data>
+  <data name="tabPage2.Text" xml:space="preserve">
+    <value>Megerősítés</value>
+  </data>
+  <data name="tabPage3.Text" xml:space="preserve">
+    <value>Futó alkalmazások</value>
+  </data>
+  <data name="tabPage4.Text" xml:space="preserve">
+    <value>Beállítások</value>
+  </data>
+  <data name="labelOther.Text" xml:space="preserve">
+    <value>l</value>
+  </data>
+  <data name="label19.Text" xml:space="preserve">
+    <value>Egyéb</value>
+  </data>
+  <data name="labelConcurrentEnabled.Text" xml:space="preserve">
+    <value>l</value>
+  </data>
+  <data name="label17.Text" xml:space="preserve">
+    <value>Egyidejű eltávolítás engedélyezve van</value>
+  </data>
+  <data name="labelWillBeSilent.Text" xml:space="preserve">
+    <value>l</value>
+  </data>
+  <data name="label15.Text" xml:space="preserve">
+    <value>Csendes eltávolítás</value>
+  </data>
+  <data name="labelRestorePointCreated.Text" xml:space="preserve">
+    <value>l</value>
+  </data>
+  <data name="label13.Text" xml:space="preserve">
+    <value>Visszaállítási pont létrehozása</value>
+  </data>
+  <data name="labelFilesStillUsed.Text" xml:space="preserve">
+    <value>l</value>
+  </data>
+  <data name="label11.Text" xml:space="preserve">
+    <value>Futó programok használják a fájlokat</value>
+  </data>
+  <data name="labelTotalSize.Text" xml:space="preserve">
+    <value>l</value>
+  </data>
+  <data name="label9.Text" xml:space="preserve">
+    <value>Becsült teljes méret</value>
+  </data>
+  <data name="labelApps.Text" xml:space="preserve">
+    <value>l</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>Eltávolítandó alkalmazások</value>
+  </data>
+  <data name="button2.Text" xml:space="preserve">
+    <value>ELTÁVOLÍTÁS INDÍTÁSA</value>
+  </data>
+  <data name="tabPage5.Text" xml:space="preserve">
+    <value>Vége</value>
+  </data>
+  <data name="p1Heading.Text" xml:space="preserve">
+    <value>Hasonló alkalmazások, amelyeket esetleg érdemes eltávolítani</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Erősítse meg, hogy az alábbiak közül mindent biztonságosan el lehet távolítani</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Egyes alkalmazásokat az eltávolítás előtt lehet, hogy be kell zárni.</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>Eltávolítási beállítások módosítása</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>Az eltávolítás megkezdése előtt győződjön meg arról, hogy az alábbi adatok helyesek. Ez az utolsó lehetőség!</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Új eltávolítási feladat indítása</value>
+  </data>
 </root>

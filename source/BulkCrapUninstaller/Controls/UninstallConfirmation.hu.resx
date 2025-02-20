@@ -117,19 +117,26 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="filteringTextBox.Text" xml:space="preserve">
-    <value>Suche...</value>
+  <data name="labelInfo2.Text" xml:space="preserve">
+    <value>A kezdeti sorrend az eltávolítási beállításoktól függ, de az elemek áthúzásával megváltoztatható. Megjegyzés: A BCU megváltoztathatja a sorrendet, ha az egyidejű eltávolítás engedélyezve van.</value>
   </data>
-  <data name="filteringTextBox.AccessibleName" xml:space="preserve">
-    <value>Suchfeld</value>
+  <data name="labelInfo.Text" xml:space="preserve">
+    <value>Ez az eltávolítandó alkalmazások listája, felülről lefelé haladva. Ha az „Eltávolítás” mezőt nem jelöli be, az alkalmazás nem lesz eltávolítva. Ha egy elemhez nem áll rendelkezésre a csendes eltávolítás, az nem jelölhető be</value>
+    <comment>jp translator: I don't know the difference between Quiet Uninstall and Silent Uninstall. Can I translate them to mean the same meaning? At this stage, we are trying to separate the two, but Quiet Uninstall is not very familiar to Japanese people.</comment>
   </data>
-  <data name="filteringTextBox.AccessibleDescription" xml:space="preserve">
-    <value>Suchfeld</value>
+  <data name="buttonSmartSort.Text" xml:space="preserve">
+    <value>Intelligens rendezés</value>
   </data>
-  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>fr</value>
-  </metadata>
+  <data name="olvColumnInstallLocation.Text" xml:space="preserve">
+    <value>Telepítés helye</value>
+  </data>
+  <data name="olvColumnQuiet.Text" xml:space="preserve">
+    <value>Csendes</value>
+  </data>
+  <data name="olvColumnEnabled.Text" xml:space="preserve">
+    <value>Eltávolítás</value>
+  </data>
+  <data name="olvColumnName.Text" xml:space="preserve">
+    <value>Eltávolító neve</value>
+  </data>
 </root>

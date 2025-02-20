@@ -117,19 +117,21 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="filteringTextBox.Text" xml:space="preserve">
-    <value>Suche...</value>
+  <data name="groupBox1.Text" xml:space="preserve">
+    <value>Kiválasztás egy ablak segítségével</value>
   </data>
-  <data name="filteringTextBox.AccessibleName" xml:space="preserve">
-    <value>Suchfeld</value>
+  <data name="groupBox2.Text" xml:space="preserve">
+    <value>Kiválasztás mappa vagy fájl segítségével</value>
   </data>
-  <data name="filteringTextBox.AccessibleDescription" xml:space="preserve">
-    <value>Suchfeld</value>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Alkalmazások keresése és eltávolítása ablakok, parancsikonok, telepítési hely vagy .exe fájlok alapján.</value>
   </data>
-  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>fr</value>
-  </metadata>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Megjegyzés: Győződjön meg róla, hogy a kiválasztott fájlok az alkalmazás telepítési mappájában vannak.
+
+Több alkalmazást tartalmazó mappát is kiválaszthat az összes mappában lévő alkalmazás eltávolításához.</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Alkalmazás kiválasztása</value>
+  </data>
 </root>
